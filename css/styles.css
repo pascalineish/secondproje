@@ -1,13 +1,47 @@
 h2{
-    color:blue;
+    color:white;
 }
 .form-group input{
     width:400px;
     height:40px;
     border-radius:14px;
 }
-.form-control > option{
+.form-group select{
     width:400px;
     height:40px;
     border-radius:14px;
+}
+.container button{
+    background-color:white;
+     
+}
+body .jumbotron{
+    background-color: #9c6f6f;
+    margin-right: 6%;
+    margin-left: 6%;
+}
+/* body{
+    background-image:url(https://cdn.pixabay.com/photo/2015/06/28/14/09/soap-bubble-824550_640.jpg);
+    background-repeat:no-repeat;
+  background-size:cover;
+  background-position:absolute;
+} */
+output{
+    display:inline;
+}
+.container{
+position: absolute;
+margin:20px;
+max-width: 250px;
+padding:10px;
+background-color: #9c6f6f;
+right:0;
+}
+.img{
+    background-image: url(https://cdn.pixabay.com/photo/2015/06/28/14/09/soap-bubble-824550_640.jpg);
+    min-height: 350px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position:relative;
 }
