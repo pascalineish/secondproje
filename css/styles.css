@@ -12,14 +12,14 @@ h2{
     height:40px;
     border-radius:14px;
 }
-.container button{
+#submit{
     background-color:white;
      
 }
 body .jumbotron{
-    background-color: #9c6f6f;
-    margin-right: 6%;
-    margin-left: 6%;
+    background-color:peru;
+    margin-right: 25%;
+    margin-left: 25%;
 }
 /* body{
     background-image:url(https://cdn.pixabay.com/photo/2015/06/28/14/09/soap-bubble-824550_640.jpg);
@@ -50,4 +50,10 @@ height:0px;
     margin-left: 25%;
     margin-right: 10%;
     box-shadow:6px 4px 6px grey;
+}
+p{
+    color:white;
+}
+.body{
+   background-color: black;
 }
