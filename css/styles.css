@@ -32,11 +32,12 @@ output{
 .container{
 position: absolute;
 margin:20px;
-max-width: 250px;
+width:50px;
 padding:10px;
-background-color: #9c6f6f;
+
 right:0;
 left: 0;
+height:0px;
 }
 .img{
     background-image: url(https://cdn.pixabay.com/photo/2015/06/28/14/09/soap-bubble-824550_640.jpg);
