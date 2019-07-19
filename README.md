@@ -8,6 +8,6 @@ First you have to read the paragraph that says what akan names is secondly you f
 *CSS
 *JavaScript
 ## contact details
-EMAIL-address:passyish5@gmail.com
+EMAIL-address:passyish5@gmail.com.
 ### License
 Copyright (c) 2019 **PASCALINE ISHIMWE**
