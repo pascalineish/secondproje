@@ -1,5 +1,5 @@
 h2{
-    color:white;
+    color:black;
 }
 .form-group input{
     width:400px;
@@ -36,6 +36,7 @@ max-width: 250px;
 padding:10px;
 background-color: #9c6f6f;
 right:0;
+left: 0;
 }
 .img{
     background-image: url(https://cdn.pixabay.com/photo/2015/06/28/14/09/soap-bubble-824550_640.jpg);
