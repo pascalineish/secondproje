@@ -17,9 +17,10 @@ h2{
      
 }
 body .jumbotron{
-    background-color:peru;
+    background-color:rgba(205, 134, 63, 0.466);
     margin-right: 25%;
     margin-left: 25%;
+   
 }
 /* body{
     background-image:url(https://cdn.pixabay.com/photo/2015/06/28/14/09/soap-bubble-824550_640.jpg);
@@ -40,7 +41,7 @@ left: 0;
 height:0px;
 }
 .img{
-    background-image: url(https://cdn.pixabay.com/photo/2015/06/28/14/09/soap-bubble-824550_640.jpg);
+     background-color:rgba(205, 134, 63, 0.466); /*url(https://cdn.pixabay.com/photo/2015/06/28/14/09/soap-bubble-824550_640.jpg); */
     min-height: 350px;
     background-position: center;
     background-repeat: no-repeat;
@@ -49,11 +50,18 @@ height:0px;
     width:600px;
     margin-left: 25%;
     margin-right: 10%;
-    box-shadow:6px 4px 6px grey;
+    
 }
 p{
     color:white;
 }
 .body{
-   background-color: black;
+   background-image:url(https://edgefunders.org/wp-content/uploads/2015/06/wheat_field_with_one_tree_landscape-wide1.jpg);
+   background-repeat: no-repeat;
+}
+.jumbotron{
+    padding:100px;
+}
+h1{
+    color:white;
 }
